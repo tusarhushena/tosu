@@ -1,0 +1,7 @@
+.env
+dist/
+package
+*.tgz
+*.sqlite
+*.sqlite-journal
+*.log
